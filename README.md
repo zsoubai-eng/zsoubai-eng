@@ -17,7 +17,7 @@
 I don't just "analyze" data; I build the systems that automate the analysis.
 
 - 🔭 **Working on:** Autonomous Content Agents & Event-Driven Trading Systems
-- 🏭 **Experience:** Optimized steam consumption at OCP Group (Saving ~$540K/yr)
+- 🏭 **Experience:** Optimized steam consumption at OCP Group.
 - ⚡ **Stack:** Python, TypeScript, Docker, Kafka, Streamlit, LLMs (Gemini/OpenAI)
 
 ---
