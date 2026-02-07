@@ -26,7 +26,7 @@ I don't just "analyze" data; I build the systems that automate the analysis.
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**🏭 Industrial Steam Optimization**](https://github.com/zsoubai-eng/analyse-vapeur) | **$540K/yr Savings.** Full-stack analytics platform (Streamlit + ML) that reduced energy costs by 10% at OCP Group. [Live Demo →](https://analyse-vapeur.onrender.com/) | Python, Streamlit, Scikit-learn, DMAIC |
+| [**🏭 Industrial Steam Optimization**](https://github.com/zsoubai-eng/analyse-vapeur) | Full-stack analytics platform (Streamlit + ML) that reduced energy costs by 10% at OCP Group. [Live Demo →](https://analyse-vapeur.onrender.com/) | Python, Streamlit, Scikit-learn, DMAIC |
 | [**🤖 Autonomous Content Agent**](https://github.com/zsoubai-eng/autonomous-content-agent) | AI-powered YouTube Shorts factory with GPT-4o scripting, Edge-TTS voiceovers, and automated video assembly. | Python, OpenAI, FFmpeg, Automation |
 | [**⚡ Crypto Liquidity Engine**](https://github.com/zsoubai-eng/crypto-liquidity-engine) | Event-driven Kafka pipeline for real-time cryptocurrency market filtering (BPS/Depth analysis). | Python, Kafka, Docker, Microservices |
 | [**📊 Dropship Intelligence**](https://github.com/zsoubai-eng/dropship-intelligence) | Data-driven e-commerce tool: Google Trends analysis + AliExpress supplier validation automation. | Python, Selenium, Google Trends API |
